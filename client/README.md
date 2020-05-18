@@ -1,22 +1,22 @@
 # Product Owners:
 
-Markup : - * Lewis Morgans
-Markup : - * James Shore
+* Lewis Morgans
+* James Shore
 
 # Senior Developers
 
-Lewis Morgans
-James Shore
+* Lewis Morgans
+* James Shore
 
 # Front End Developers
 
-Anthony Gonzalez
-Kevin Cheung
+* Anthony Gonzalez
+* Kevin Cheung
 
 # Back End Developers
 
-Vacant 
-Vacant 
+* Vacant 
+* Vacant 
 
 --------------------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ https://trello.com/b/poTQ712k/real-reviews
 # Slack
 https://join.slack.com/t/swift-media-hq/shared_invite/zt-eeuaid3p-M6nzOAaADibedO_Xkf409A
 
----------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 # POC
 
