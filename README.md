@@ -1,23 +1,3 @@
-# Product Owners:
-
-* Lewis Morgans
-* James Shore
-
-# Senior Developers
-
-* Lewis Morgans
-* James Shore
-
-# Front End Developers
-
-* Anthony Gonzalez
-* Kevin Cheung
-
-# Back End Developers
-
-* Vacant 
-* Vacant 
-
 --------------------------------------------------------------------------------------
 
 # Sprint board
